@@ -26,7 +26,7 @@ class LoopsBench
 
     public function benchShortForLoop()
     {
-        $i = 0;
+        $i = -1;
 
         for (; ++$i < $this->iterations;)
         {
