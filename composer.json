@@ -1,0 +1,24 @@
+{
+    "name": "ellisgl/php-benchmarks",
+    "description": "Just some PHP benchmarks.",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "ellisgl",
+            "email": "ellisgl@github.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "geeklab/toolbox": "^1.0"
+    },
+    "require-dev": {
+        "phpbench/phpbench": "@dev"
+    },
+    "autoload"          : {
+        "psr-4" : {
+            "Acme\\" : "lib"
+        }
+    }
+}
