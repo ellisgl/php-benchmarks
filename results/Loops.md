@@ -3,7 +3,7 @@ Test for, short for, do...while and batch (unfolded) loops.
 [Test code](/benchmarks/LoopsBench.php)
 
 ## Results
-AMD 1700 - Window 10
+AMD Ryzen 1700 - Windows 10 - PHP 7.2.0
 
 | subject              | revs | its | mem_peak   | best         | mean         | mode         | worst        | stdev       | rstdev | diff  |
 |----------------------|------|-----|------------|--------------|--------------|--------------|--------------|-------------|--------|-------|
