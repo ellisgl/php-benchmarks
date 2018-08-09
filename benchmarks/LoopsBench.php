@@ -1,6 +1,5 @@
 <?php
 // vendor\bin\phpbench run benchmarks\LoopsBench.php --report=aggregate
-use GeekLab\ToolBox;
 use Acme\Loops;
 
 /**
