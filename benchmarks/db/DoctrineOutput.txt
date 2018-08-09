@@ -1,0 +1,2552 @@
+Georgi Facello (10001):
+	Salaries:
+		60117
+	Departments:
+		Development
+Bezalel Simmel (10002):
+	Salaries:
+		65828
+	Departments:
+		Sales
+Parto Bamford (10003):
+	Salaries:
+		40006
+	Departments:
+		Production
+Chirstian Koblick (10004):
+	Salaries:
+		40054
+	Departments:
+		Production
+Kyoichi Maliniak (10005):
+	Salaries:
+		78228
+	Departments:
+		Human Resources
+Anneke Preusig (10006):
+	Salaries:
+		40000
+	Departments:
+		Development
+Tzvetan Zielinski (10007):
+	Salaries:
+		56724
+	Departments:
+		Research
+Saniya Kalloufi (10008):
+	Salaries:
+		46671
+	Departments:
+		Development
+Sumant Peac (10009):
+	Salaries:
+		60929
+	Departments:
+		Quality Management
+Duangkaew Piveteau (10010):
+	Salaries:
+		72488
+	Departments:
+		Production
+		Quality Management
+Mary Sluis (10011):
+	Salaries:
+		42365
+	Departments:
+		Customer Service
+Patricio Bridgland (10012):
+	Salaries:
+		40000
+	Departments:
+		Development
+Eberhardt Terkki (10013):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Berni Genin (10014):
+	Salaries:
+		46168
+	Departments:
+		Development
+Guoxiang Nooteboom (10015):
+	Salaries:
+		40000
+	Departments:
+		Research
+Kazuhito Cappelletti (10016):
+	Salaries:
+		70889
+	Departments:
+		Sales
+Cristinel Bouloucos (10017):
+	Salaries:
+		71380
+	Departments:
+		Marketing
+Kazuhide Peha (10018):
+	Salaries:
+		55881
+	Departments:
+		Production
+		Development
+Lillian Haddadi (10019):
+	Salaries:
+		44276
+	Departments:
+		Research
+Mayuko Warwick (10020):
+	Salaries:
+		40000
+	Departments:
+		Production
+Ramzi Erde (10021):
+	Salaries:
+		55025
+	Departments:
+		Development
+Shahaf Famili (10022):
+	Salaries:
+		40000
+	Departments:
+		Development
+Bojan Montemayor (10023):
+	Salaries:
+		47883
+	Departments:
+		Development
+Suzette Pettey (10024):
+	Salaries:
+		83733
+	Departments:
+		Production
+Prasadram Heyers (10025):
+	Salaries:
+		40000
+	Departments:
+		Development
+Yongqiao Berztiss (10026):
+	Salaries:
+		47585
+	Departments:
+		Production
+Divier Reistad (10027):
+	Salaries:
+		40000
+	Departments:
+		Development
+Domenick Tempesti (10028):
+	Salaries:
+		48859
+	Departments:
+		Development
+Otmar Herbst (10029):
+	Salaries:
+		63163
+	Departments:
+		Production
+		Quality Management
+Elvis Demeyer (10030):
+	Salaries:
+		66956
+	Departments:
+		Production
+Karsten Joslin (10031):
+	Salaries:
+		40000
+	Departments:
+		Development
+Jeong Reistad (10032):
+	Salaries:
+		48426
+	Departments:
+		Production
+Arif Merlo (10033):
+	Salaries:
+		51258
+	Departments:
+		Quality Management
+Bader Swan (10034):
+	Salaries:
+		47561
+	Departments:
+		Sales
+Alain Chappelet (10035):
+	Salaries:
+		41538
+	Departments:
+		Production
+Adamantios Portugali (10036):
+	Salaries:
+		42819
+	Departments:
+		Human Resources
+Pradeep Makrucki (10037):
+	Salaries:
+		40000
+	Departments:
+		Development
+Huan Lortz (10038):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Alejandro Brender (10039):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Weiyi Meriste (10040):
+	Salaries:
+		52153
+	Departments:
+		Development
+		Research
+Uri Lenart (10041):
+	Salaries:
+		56893
+	Departments:
+		Sales
+Magy Stamatiou (10042):
+	Salaries:
+		81662
+	Departments:
+		Finance
+Yishay Tzvieli (10043):
+	Salaries:
+		49324
+	Departments:
+		Development
+Mingsen Casley (10044):
+	Salaries:
+		40919
+	Departments:
+		Production
+Moss Shanbhogue (10045):
+	Salaries:
+		41971
+	Departments:
+		Production
+Lucien Rosenbaum (10046):
+	Salaries:
+		40000
+	Departments:
+		Research
+Zvonko Nyanchama (10047):
+	Salaries:
+		54982
+	Departments:
+		Production
+Florian Syrotiuk (10048):
+	Salaries:
+		40000
+	Departments:
+		Development
+Basil Tramer (10049):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Yinghua Dredge (10050):
+	Salaries:
+		74366
+	Departments:
+		Finance
+		Sales
+Hidefumi Caine (10051):
+	Salaries:
+		48817
+	Departments:
+		Production
+Heping Nitsch (10052):
+	Salaries:
+		57212
+	Departments:
+		Research
+Sanjiv Zschoche (10053):
+	Salaries:
+		67854
+	Departments:
+		Sales
+Mayumi Schueller (10054):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Georgy Dredge (10055):
+	Salaries:
+		80024
+	Departments:
+		Marketing
+Brendon Bernini (10056):
+	Salaries:
+		48857
+	Departments:
+		Development
+Ebbe Callaway (10057):
+	Salaries:
+		49616
+	Departments:
+		Development
+Berhard McFarlin (10058):
+	Salaries:
+		52787
+	Departments:
+		Marketing
+Alejandro McAlpine (10059):
+	Salaries:
+		71218
+	Departments:
+		Finance
+Breannda Billingsley (10060):
+	Salaries:
+		74686
+	Departments:
+		Sales
+		Customer Service
+Tse Herber (10061):
+	Salaries:
+		68577
+	Departments:
+		Sales
+Anoosh Peyn (10062):
+	Salaries:
+		55685
+	Departments:
+		Development
+Gino Leonhardt (10063):
+	Salaries:
+		40000
+	Departments:
+		Production
+Udi Jansch (10064):
+	Salaries:
+		40000
+	Departments:
+		Research
+Satosi Awdeh (10065):
+	Salaries:
+		40000
+	Departments:
+		Development
+Kwee Schusler (10066):
+	Salaries:
+		69736
+	Departments:
+		Development
+Claudi Stavenow (10067):
+	Salaries:
+		44642
+	Departments:
+		Quality Management
+Charlene Brattka (10068):
+	Salaries:
+		87964
+	Departments:
+		Sales
+Margareta Bierman (10069):
+	Salaries:
+		67932
+	Departments:
+		Production
+Reuven Garigliano (10070):
+	Salaries:
+		55999
+	Departments:
+		Development
+		Research
+Hisao Lipner (10071):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Hironoby Sidou (10072):
+	Salaries:
+		40000
+	Departments:
+		Development
+Shir McClurg (10073):
+	Salaries:
+		56473
+	Departments:
+		Quality Management
+Mokhtar Bernatsky (10074):
+	Salaries:
+		61714
+	Departments:
+		Development
+Gao Dolinsky (10075):
+	Salaries:
+		43815
+	Departments:
+		Development
+Erez Ritzmann (10076):
+	Salaries:
+		47319
+	Departments:
+		Development
+Mona Azuma (10077):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Danel Mondadori (10078):
+	Salaries:
+		47280
+	Departments:
+		Development
+Kshitij Gils (10079):
+	Salaries:
+		53492
+	Departments:
+		Development
+Premal Baek (10080):
+	Salaries:
+		54916
+	Departments:
+		Finance
+		Human Resources
+Zhongwei Rosen (10081):
+	Salaries:
+		55786
+	Departments:
+		Production
+Parviz Lortz (10082):
+	Salaries:
+		48935
+	Departments:
+		Research
+Vishv Zockler (10083):
+	Salaries:
+		40000
+	Departments:
+		Production
+Tuval Kalloufi (10084):
+	Salaries:
+		69811
+	Departments:
+		Production
+Kenroku Malabarba (10085):
+	Salaries:
+		40000
+	Departments:
+		Production
+Somnath Foote (10086):
+	Salaries:
+		81613
+	Departments:
+		Human Resources
+Xinglin Eugenio (10087):
+	Salaries:
+		96750
+	Departments:
+		Sales
+Jungsoon Syrzycki (10088):
+	Salaries:
+		65957
+	Departments:
+		Sales
+		Customer Service
+Sudharsan Flasterstein (10089):
+	Salaries:
+		56469
+	Departments:
+		Sales
+Kendra Hofting (10090):
+	Salaries:
+		44978
+	Departments:
+		Development
+Amabile Gomatam (10091):
+	Salaries:
+		40000
+	Departments:
+		Development
+Valdiodio Niizuma (10092):
+	Salaries:
+		53977
+	Departments:
+		Development
+Sailaja Desikan (10093):
+	Salaries:
+		67856
+	Departments:
+		Sales
+Arumugam Ossenbruggen (10094):
+	Salaries:
+		58001
+	Departments:
+		Research
+Hilari Morton (10095):
+	Salaries:
+		63668
+	Departments:
+		Sales
+Jayson Mandell (10096):
+	Salaries:
+		61395
+	Departments:
+		Production
+Remzi Waschkowski (10097):
+	Salaries:
+		44886
+	Departments:
+		Research
+Sreekrishna Servieres (10098):
+	Salaries:
+		40000
+	Departments:
+		Production
+		Customer Service
+Valter Sullins (10099):
+	Salaries:
+		68781
+	Departments:
+		Sales
+Hironobu Haraldson (10100):
+	Salaries:
+		54398
+	Departments:
+		Human Resources
+Perla Heyers (10101):
+	Salaries:
+		66591
+	Departments:
+		Sales
+Paraskevi Luby (10102):
+	Salaries:
+		44380
+	Departments:
+		Production
+Akemi Birch (10103):
+	Salaries:
+		68158
+	Departments:
+		Development
+Xinyu Warwick (10104):
+	Salaries:
+		45312
+	Departments:
+		Research
+Hironoby Piveteau (10105):
+	Salaries:
+		59258
+	Departments:
+		Human Resources
+Eben Aingworth (10106):
+	Salaries:
+		62928
+	Departments:
+		Production
+Dung Baca (10107):
+	Salaries:
+		93159
+	Departments:
+		Sales
+Lunjin Giveon (10108):
+	Salaries:
+		40000
+	Departments:
+		Marketing
+		Human Resources
+Mariusz Prampolini (10109):
+	Salaries:
+		40000
+	Departments:
+		Production
+Xuejia Ullian (10110):
+	Salaries:
+		46836
+	Departments:
+		Human Resources
+Hugo Rosis (10111):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Yuichiro Swick (10112):
+	Salaries:
+		49500
+	Departments:
+		Customer Service
+Jaewon Syrzycki (10113):
+	Salaries:
+		69856
+	Departments:
+		Production
+Munir Demeyer (10114):
+	Salaries:
+		49593
+	Departments:
+		Research
+Chikara Rissland (10115):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Dayanand Czap (10116):
+	Salaries:
+		44034
+	Departments:
+		Development
+		Research
+Kiyotoshi Blokdijk (10117):
+	Salaries:
+		52284
+	Departments:
+		Production
+Zhonghui Zyda (10118):
+	Salaries:
+		40000
+	Departments:
+		Development
+Domenick Peltason (10119):
+	Salaries:
+		53551
+	Departments:
+		Production
+Armond Fairtlough (10120):
+	Salaries:
+		46292
+	Departments:
+		Production
+Guoxiang Ramsay (10121):
+	Salaries:
+		43772
+	Departments:
+		Development
+Ohad Esposito (10122):
+	Salaries:
+		42284
+	Departments:
+		Development
+Hinrich Randi (10123):
+	Salaries:
+		71524
+	Departments:
+		Production
+Geraldo Marwedel (10124):
+	Salaries:
+		40583
+	Departments:
+		Production
+		Quality Management
+Syozo Hiltgen (10125):
+	Salaries:
+		58249
+	Departments:
+		Sales
+Kayoko Valtorta (10126):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Subir Baja (10127):
+	Salaries:
+		40000
+	Departments:
+		Development
+Babette Lamba (10128):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Armond Peir (10129):
+	Salaries:
+		40000
+	Departments:
+		Development
+Nishit Casperson (10130):
+	Salaries:
+		40000
+	Departments:
+		Production
+Magdalena Eldridge (10131):
+	Salaries:
+		48475
+	Departments:
+		Production
+Ayakannu Skrikant (10132):
+	Salaries:
+		61590
+	Departments:
+		Finance
+Giri Isaak (10133):
+	Salaries:
+		40000
+	Departments:
+		Production
+Diederik Siprelle (10134):
+	Salaries:
+		40000
+	Departments:
+		Production
+		Development
+Nathan Monkewich (10135):
+	Salaries:
+		40000
+	Departments:
+		Production
+Zissis Pintelas (10136):
+	Salaries:
+		82420
+	Departments:
+		Sales
+Maren Hutton (10137):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Perry Shimshoni (10138):
+	Salaries:
+		53574
+	Departments:
+		Quality Management
+Ewing Foong (10139):
+	Salaries:
+		40000
+	Departments:
+		Development
+Yucel Auria (10140):
+	Salaries:
+		61352
+	Departments:
+		Marketing
+Shahaf Ishibashi (10141):
+	Salaries:
+		62907
+	Departments:
+		Research
+Tzvetan Hettesheimer (10142):
+	Salaries:
+		40000
+	Departments:
+		Development
+Sakthirel Bakhtari (10143):
+	Salaries:
+		40000
+	Departments:
+		Development
+Marla Brendel (10144):
+	Salaries:
+		56720
+	Departments:
+		Finance
+		Human Resources
+Akemi Esposito (10145):
+	Salaries:
+		47612
+	Departments:
+		Development
+Chenyi Syang (10146):
+	Salaries:
+		60394
+	Departments:
+		Finance
+Kazuhito Encarnacion (10147):
+	Salaries:
+		40000
+	Departments:
+		Finance
+Douadi Azumi (10148):
+	Salaries:
+		63021
+	Departments:
+		Sales
+Xiadong Perry (10149):
+	Salaries:
+		88740
+	Departments:
+		Sales
+Zhenbing Perng (10150):
+	Salaries:
+		70122
+	Departments:
+		Development
+Itzchak Lichtner (10151):
+	Salaries:
+		90741
+	Departments:
+		Sales
+Jaques Munro (10152):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Heekeun Majewski (10153):
+	Salaries:
+		54246
+	Departments:
+		Development
+Abdulah Thibadeau (10154):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Adas Nastansky (10155):
+	Salaries:
+		40040
+	Departments:
+		Production
+		Research
+Sumali Fargier (10156):
+	Salaries:
+		49879
+	Departments:
+		Quality Management
+Nigel Aloisi (10157):
+	Salaries:
+		48770
+	Departments:
+		Development
+Khedija Mitsuhashi (10158):
+	Salaries:
+		40725
+	Departments:
+		Production
+Serif Buescher (10159):
+	Salaries:
+		52881
+	Departments:
+		Quality Management
+Debatosh Khasidashvili (10160):
+	Salaries:
+		91622
+	Departments:
+		Sales
+Hairong Mellouli (10161):
+	Salaries:
+		43149
+	Departments:
+		Production
+Florina Eugenio (10162):
+	Salaries:
+		40000
+	Departments:
+		Production
+Karsten Szmurlo (10163):
+	Salaries:
+		41603
+	Departments:
+		Human Resources
+Jagoda Braunmuhl (10164):
+	Salaries:
+		52043
+	Departments:
+		Production
+		Customer Service
+Miyeon Macedo (10165):
+	Salaries:
+		43991
+	Departments:
+		Finance
+Samphel Siegrist (10166):
+	Salaries:
+		51586
+	Departments:
+		Development
+Duangkaew Rassart (10167):
+	Salaries:
+		56990
+	Departments:
+		Production
+Dharmaraja Stassinopoulos (10168):
+	Salaries:
+		51818
+	Departments:
+		Research
+Sampalli Snedden (10169):
+	Salaries:
+		70303
+	Departments:
+		Development
+Kasturi Jenevein (10170):
+	Salaries:
+		47183
+	Departments:
+		Production
+Herbert Trachtenberg (10171):
+	Salaries:
+		41311
+	Departments:
+		Production
+Shigeu Matzen (10172):
+	Salaries:
+		41197
+	Departments:
+		Development
+		Research
+Shrikanth Mahmud (10173):
+	Salaries:
+		85757
+	Departments:
+		Finance
+Badri Furudate (10174):
+	Salaries:
+		59520
+	Departments:
+		Production
+Aleksandar Ananiadou (10175):
+	Salaries:
+		72285
+	Departments:
+		Marketing
+Brendon Lenart (10176):
+	Salaries:
+		54635
+	Departments:
+		Customer Service
+Pragnesh Iisaka (10177):
+	Salaries:
+		48041
+	Departments:
+		Finance
+Valery Litvinov (10178):
+	Salaries:
+		50568
+	Departments:
+		Sales
+Deniz Duclos (10179):
+	Salaries:
+		40000
+	Departments:
+		Development
+Shaw Wendorf (10180):
+	Salaries:
+		52444
+	Departments:
+		Finance
+Sibyl Nooteboom (10181):
+	Salaries:
+		40000
+	Departments:
+		Development
+Moriyoshi Merey (10182):
+	Salaries:
+		40380
+	Departments:
+		Development
+		Research
+Mechthild Bonifati (10183):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Mihalis Lowrie (10184):
+	Salaries:
+		48586
+	Departments:
+		Customer Service
+Duro Sidhu (10185):
+	Salaries:
+		68334
+	Departments:
+		Sales
+Shigehito Kropatsch (10186):
+	Salaries:
+		40000
+	Departments:
+		Finance
+Tommaso Narwekar (10187):
+	Salaries:
+		71454
+	Departments:
+		Finance
+Christ Muchinsky (10188):
+	Salaries:
+		62365
+	Departments:
+		Production
+Khalid Erva (10189):
+	Salaries:
+		41222
+	Departments:
+		Development
+Arve Fairtlough (10190):
+	Salaries:
+		40000
+	Departments:
+		Production
+Zdislav Nastansky (10191):
+	Salaries:
+		40000
+	Departments:
+		Development
+Mohua Falck (10192):
+	Salaries:
+		40000
+	Departments:
+		Production
+		Quality Management
+Masaru Cheshire (10193):
+	Salaries:
+		48733
+	Departments:
+		Development
+Josyula Hofmeyr (10194):
+	Salaries:
+		64941
+	Departments:
+		Finance
+Annemarie Redmiles (10195):
+	Salaries:
+		40000
+	Departments:
+		Production
+Marc Hellwagner (10196):
+	Salaries:
+		86671
+	Departments:
+		Finance
+Kasidit Krzyzanowski (10197):
+	Salaries:
+		40000
+	Departments:
+		Development
+Pranav Furedi (10198):
+	Salaries:
+		44076
+	Departments:
+		Development
+Kazuhisa Ranta (10199):
+	Salaries:
+		42042
+	Departments:
+		Sales
+Vidya Awdeh (10200):
+	Salaries:
+		46879
+	Departments:
+		Production
+		Quality Management
+Idoia Kavraki (10201):
+	Salaries:
+		40000
+	Departments:
+		Development
+Greger Lichtner (10202):
+	Salaries:
+		47338
+	Departments:
+		Development
+Steen Escriba (10203):
+	Salaries:
+		40000
+	Departments:
+		Research
+Nevio Ritcey (10204):
+	Salaries:
+		40000
+	Departments:
+		Development
+Mabhin Leijenhorst (10205):
+	Salaries:
+		40000
+	Departments:
+		Production
+Alassane Iwayama (10206):
+	Salaries:
+		40000
+	Departments:
+		Development
+Girolamo Anandan (10207):
+	Salaries:
+		52783
+	Departments:
+		Development
+Xiping Klerer (10208):
+	Salaries:
+		61890
+	Departments:
+		Marketing
+Yolla Ellozy (10209):
+	Salaries:
+		57996
+	Departments:
+		Finance
+		Sales
+Yuping Alpin (10210):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Vishu Strehl (10211):
+	Salaries:
+		49032
+	Departments:
+		Development
+Divier Esteva (10212):
+	Salaries:
+		65938
+	Departments:
+		Development
+Jackson Kakkad (10213):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Tadahiko Ciolek (10214):
+	Salaries:
+		58341
+	Departments:
+		Sales
+Xiaobin Duclos (10215):
+	Salaries:
+		43944
+	Departments:
+		Sales
+Amstein Ghemri (10216):
+	Salaries:
+		40000
+	Departments:
+		Research
+Yongmin Roison (10217):
+	Salaries:
+		40000
+	Departments:
+		Production
+Zhenhua Magalhaes (10218):
+	Salaries:
+		40788
+	Departments:
+		Production
+Genta Kolvik (10219):
+	Salaries:
+		40000
+	Departments:
+		Development
+		Customer Service
+Kish Fasbender (10220):
+	Salaries:
+		58883
+	Departments:
+		Finance
+Yucai Granlund (10221):
+	Salaries:
+		57821
+	Departments:
+		Production
+Tze Nourani (10222):
+	Salaries:
+		40000
+	Departments:
+		Production
+Carrsten Schmiedel (10223):
+	Salaries:
+		62922
+	Departments:
+		Development
+Leon Trogemann (10224):
+	Salaries:
+		40000
+	Departments:
+		Production
+Kellie Chinen (10225):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Xinglin Plessier (10226):
+	Salaries:
+		79456
+	Departments:
+		Sales
+Anneli Kaiser (10227):
+	Salaries:
+		53497
+	Departments:
+		Development
+Karoline Cesareni (10228):
+	Salaries:
+		79474
+	Departments:
+		Marketing
+		Sales
+Ulises Takanami (10229):
+	Salaries:
+		58321
+	Departments:
+		Quality Management
+Clyde Vernadat (10230):
+	Salaries:
+		47531
+	Departments:
+		Research
+Shaowen Desikan (10231):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Marko Auria (10232):
+	Salaries:
+		89606
+	Departments:
+		Sales
+Lein Vendrig (10233):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Arunachalam Bakhtari (10234):
+	Salaries:
+		84584
+	Departments:
+		Sales
+Susanta Roccetti (10235):
+	Salaries:
+		41941
+	Departments:
+		Production
+Susumu Bade (10236):
+	Salaries:
+		80469
+	Departments:
+		Sales
+Yannis Mandell (10237):
+	Salaries:
+		100715
+	Departments:
+		Sales
+Mototsugu Gire (10238):
+	Salaries:
+		52764
+	Departments:
+		Development
+		Research
+Nikolaos Llado (10239):
+	Salaries:
+		65146
+	Departments:
+		Marketing
+Remko Maccarone (10240):
+	Salaries:
+		73874
+	Departments:
+		Quality Management
+Ortrud Murillo (10241):
+	Salaries:
+		40000
+	Departments:
+		Finance
+Lunjin Ozeri (10242):
+	Salaries:
+		40000
+	Departments:
+		Production
+Wonhee Pouyioutas (10243):
+	Salaries:
+		59332
+	Departments:
+		Sales
+Foong Flasterstein (10244):
+	Salaries:
+		56292
+	Departments:
+		Development
+Ramalingam Gente (10245):
+	Salaries:
+		40000
+	Departments:
+		Research
+Basem Teitelbaum (10246):
+	Salaries:
+		40000
+	Departments:
+		Production
+Heon Riefers (10247):
+	Salaries:
+		40000
+	Departments:
+		Production
+Frederique Tempesti (10248):
+	Salaries:
+		58918
+	Departments:
+		Sales
+Marie Boreale (10249):
+	Salaries:
+		72192
+	Departments:
+		Development
+		Research
+Serap Etalle (10250):
+	Salaries:
+		50330
+	Departments:
+		Quality Management
+Alair Rosenbaum (10251):
+	Salaries:
+		61743
+	Departments:
+		Research
+Shirish Wegerle (10252):
+	Salaries:
+		40000
+	Departments:
+		Production
+Zsolt Salinas (10253):
+	Salaries:
+		62494
+	Departments:
+		Sales
+Shen Brattka (10254):
+	Salaries:
+		60222
+	Departments:
+		Sales
+Roddy Garnick (10255):
+	Salaries:
+		63822
+	Departments:
+		Production
+Irene Radhakrishnan (10256):
+	Salaries:
+		71305
+	Departments:
+		Sales
+Aiman Riexinger (10257):
+	Salaries:
+		40000
+	Departments:
+		Production
+Basil Ishibashi (10258):
+	Salaries:
+		66280
+	Departments:
+		Development
+Susanna Vesel (10259):
+	Salaries:
+		88991
+	Departments:
+		Marketing
+		Customer Service
+Alper Suomi (10260):
+	Salaries:
+		60879
+	Departments:
+		Production
+Mang Erie (10261):
+	Salaries:
+		40000
+	Departments:
+		Development
+Mahendra Maraist (10262):
+	Salaries:
+		63005
+	Departments:
+		Sales
+Takahiro Waterhouse (10263):
+	Salaries:
+		67883
+	Departments:
+		Finance
+Nalini Kawashimo (10264):
+	Salaries:
+		60522
+	Departments:
+		Development
+Ramalingam Muniz (10265):
+	Salaries:
+		46382
+	Departments:
+		Quality Management
+Sukumar Rassart (10266):
+	Salaries:
+		47093
+	Departments:
+		Production
+Shaunak Cullers (10267):
+	Salaries:
+		40000
+	Departments:
+		Production
+Nishit Siochi (10268):
+	Salaries:
+		41017
+	Departments:
+		Production
+		Development
+Taizo Oxman (10269):
+	Salaries:
+		40000
+	Departments:
+		Production
+Bedir Hartvigsen (10270):
+	Salaries:
+		42081
+	Departments:
+		Sales
+Sham Eastman (10271):
+	Salaries:
+		53680
+	Departments:
+		Development
+Yishai Cannane (10272):
+	Salaries:
+		58070
+	Departments:
+		Finance
+Baocai Lieblein (10273):
+	Salaries:
+		75148
+	Departments:
+		Sales
+Dmitri Pearson (10274):
+	Salaries:
+		86164
+	Departments:
+		Development
+Marek Luck (10275):
+	Salaries:
+		40000
+	Departments:
+		Development
+Xuejun Hempstead (10276):
+	Salaries:
+		40000
+	Departments:
+		Development
+Isaac Schwartzbauer (10277):
+	Salaries:
+		59534
+	Departments:
+		Sales
+Lubomir Nitsch (10278):
+	Salaries:
+		51703
+	Departments:
+		Development
+Barton Jumpertz (10279):
+	Salaries:
+		40000
+	Departments:
+		Production
+		Customer Service
+Stabislas Delgrange (10280):
+	Salaries:
+		66695
+	Departments:
+		Human Resources
+Moty Kusakari (10281):
+	Salaries:
+		46123
+	Departments:
+		Quality Management
+Hercules Benzmuller (10282):
+	Salaries:
+		40000
+	Departments:
+		Production
+Kauko Birjandi (10283):
+	Salaries:
+		40000
+	Departments:
+		Development
+Masali Murrill (10284):
+	Salaries:
+		40000
+	Departments:
+		Production
+Zhonghui Preusig (10285):
+	Salaries:
+		62075
+	Departments:
+		Research
+Saddek Gopalakrishnan (10286):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Marie Pietracaprina (10287):
+	Salaries:
+		55732
+	Departments:
+		Development
+		Research
+Selwyn Perri (10288):
+	Salaries:
+		80474
+	Departments:
+		Production
+Shay Poulakidas (10289):
+	Salaries:
+		40000
+	Departments:
+		Development
+Yongmao Pleszkun (10290):
+	Salaries:
+		44274
+	Departments:
+		Development
+Dipayan Seghrouchni (10291):
+	Salaries:
+		57430
+	Departments:
+		Sales
+Yucel Ghelli (10292):
+	Salaries:
+		78370
+	Departments:
+		Sales
+Mihalis Avouris (10293):
+	Salaries:
+		44200
+	Departments:
+		Production
+Rutger Miara (10294):
+	Salaries:
+		66448
+	Departments:
+		Development
+Kristine Velardi (10295):
+	Salaries:
+		46398
+	Departments:
+		Finance
+Petter Lorho (10296):
+	Salaries:
+		77788
+	Departments:
+		Sales
+Narain Oaver (10297):
+	Salaries:
+		63061
+	Departments:
+		Production
+Dietrich DuCasse (10298):
+	Salaries:
+		40000
+	Departments:
+		Production
+		Research
+Ipke Stentiford (10299):
+	Salaries:
+		76484
+	Departments:
+		Sales
+Tadahiko Ulupinar (10300):
+	Salaries:
+		72504
+	Departments:
+		Production
+Lucien Staudhammer (10301):
+	Salaries:
+		40000
+	Departments:
+		Finance
+Faiza Baer (10302):
+	Salaries:
+		58239
+	Departments:
+		Sales
+Marlo Zschoche (10303):
+	Salaries:
+		40000
+	Departments:
+		Production
+Bernt Erie (10304):
+	Salaries:
+		106905
+	Departments:
+		Sales
+Hirochika Piancastelli (10305):
+	Salaries:
+		52550
+	Departments:
+		Development
+Heng Kilgour (10306):
+	Salaries:
+		44229
+	Departments:
+		Sales
+Nikolaos Leaver (10307):
+	Salaries:
+		40000
+	Departments:
+		Production
+		Quality Management
+Dzung Holburn (10308):
+	Salaries:
+		59715
+	Departments:
+		Sales
+Prodip Schusler (10309):
+	Salaries:
+		53031
+	Departments:
+		Development
+Aksel Alencar (10310):
+	Salaries:
+		42894
+	Departments:
+		Production
+Hsiangchu Molenkamp (10311):
+	Salaries:
+		40000
+	Departments:
+		Development
+Rasiah Deyuan (10312):
+	Salaries:
+		56705
+	Departments:
+		Production
+Subbu Riexinger (10313):
+	Salaries:
+		60589
+	Departments:
+		Research
+Christfried Apsitis (10314):
+	Salaries:
+		51939
+	Departments:
+		Sales
+Maris Angelopoulos (10315):
+	Salaries:
+		60494
+	Departments:
+		Development
+Christoper Schwaller (10316):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Arie Birge (10317):
+	Salaries:
+		51129
+	Departments:
+		Production
+		Research
+Mototsugu Beilner (10318):
+	Salaries:
+		73259
+	Departments:
+		Development
+Mechthild Miyakawa (10319):
+	Salaries:
+		84162
+	Departments:
+		Sales
+Uinam Stasinski (10320):
+	Salaries:
+		58483
+	Departments:
+		Sales
+Guenter Ravishankar (10321):
+	Salaries:
+		86819
+	Departments:
+		Sales
+Isamu Dahlbom (10322):
+	Salaries:
+		41968
+	Departments:
+		Development
+Kankanahalli Hinsberger (10323):
+	Salaries:
+		40000
+	Departments:
+		Production
+Bernardo Rouquie (10324):
+	Salaries:
+		67499
+	Departments:
+		Development
+Arunachalam Badr (10325):
+	Salaries:
+		44325
+	Departments:
+		Human Resources
+Masali Czap (10326):
+	Salaries:
+		40000
+	Departments:
+		Research
+Roded Facello (10327):
+	Salaries:
+		54734
+	Departments:
+		Development
+		Research
+Serenella Kawashima (10328):
+	Salaries:
+		46286
+	Departments:
+		Development
+Remko Shigei (10329):
+	Salaries:
+		51664
+	Departments:
+		Production
+Kasturi Bellmore (10330):
+	Salaries:
+		86545
+	Departments:
+		Sales
+Arto Binkley (10331):
+	Salaries:
+		55800
+	Departments:
+		Sales
+Masanao Bain (10332):
+	Salaries:
+		52133
+	Departments:
+		Production
+Snehasis Dymetman (10333):
+	Salaries:
+		45141
+	Departments:
+		Development
+Falguni Erie (10334):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Toshimori Bahi (10335):
+	Salaries:
+		52633
+	Departments:
+		Sales
+		Customer Service
+Goa Rothe (10336):
+	Salaries:
+		63248
+	Departments:
+		Research
+Jeong Sadowsky (10337):
+	Salaries:
+		56061
+	Departments:
+		Production
+Heon Ranai (10338):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Teunis Liedekerke (10339):
+	Salaries:
+		40000
+	Departments:
+		Production
+Djelloul Laventhal (10340):
+	Salaries:
+		68132
+	Departments:
+		Marketing
+Wilmer Greenaway (10341):
+	Salaries:
+		40000
+	Departments:
+		Production
+Stella Hiroyama (10342):
+	Salaries:
+		40000
+	Departments:
+		Development
+Dinah Syrzycki (10343):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Uwe Garnier (10344):
+	Salaries:
+		53087
+	Departments:
+		Production
+		Quality Management
+Arra Ratnakar (10345):
+	Salaries:
+		66930
+	Departments:
+		Development
+Aamod Radwan (10346):
+	Salaries:
+		78088
+	Departments:
+		Sales
+Pradeep Kaminger (10347):
+	Salaries:
+		42199
+	Departments:
+		Research
+Mahendra Picco (10348):
+	Salaries:
+		40000
+	Departments:
+		Production
+Oksana Brodie (10349):
+	Salaries:
+		47518
+	Departments:
+		Customer Service
+Kristen Kavvadias (10350):
+	Salaries:
+		41213
+	Departments:
+		Production
+Tadahiko Strehl (10351):
+	Salaries:
+		40000
+	Departments:
+		Finance
+Erzsebet Ohori (10352):
+	Salaries:
+		40000
+	Departments:
+		Development
+Phule Hammerschmidt (10353):
+	Salaries:
+		62656
+	Departments:
+		Marketing
+Moto Kusakari (10354):
+	Salaries:
+		60762
+	Departments:
+		Finance
+		Human Resources
+Satyanarayana Cochrane (10355):
+	Salaries:
+		70434
+	Departments:
+		Sales
+Vasilis Standera (10356):
+	Salaries:
+		45376
+	Departments:
+		Research
+Hausi Sidhu (10357):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Qunsheng Tagansky (10358):
+	Salaries:
+		63243
+	Departments:
+		Development
+Heekeun Sambasivam (10359):
+	Salaries:
+		40000
+	Departments:
+		Development
+Irene Munck (10360):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Seshu Sidou (10361):
+	Salaries:
+		64213
+	Departments:
+		Sales
+Shalesh dAstous (10362):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Toshiki Muniz (10363):
+	Salaries:
+		40401
+	Departments:
+		Production
+		Quality Management
+Nakhoon Dengi (10364):
+	Salaries:
+		51401
+	Departments:
+		Production
+Rosine Granlund (10365):
+	Salaries:
+		45523
+	Departments:
+		Research
+Morrie Piazza (10366):
+	Salaries:
+		47229
+	Departments:
+		Development
+Hyuckchul Gini (10367):
+	Salaries:
+		63565
+	Departments:
+		Marketing
+Hatim Koshiba (10368):
+	Salaries:
+		42463
+	Departments:
+		Production
+Qunsheng Toyoshima (10369):
+	Salaries:
+		47236
+	Departments:
+		Sales
+Clyde Fandrianto (10370):
+	Salaries:
+		40010
+	Departments:
+		Sales
+Ioana Kirkerud (10371):
+	Salaries:
+		61475
+	Departments:
+		Production
+Anneli Frijda (10372):
+	Salaries:
+		54505
+	Departments:
+		Production
+Hongzue Heijenga (10373):
+	Salaries:
+		53305
+	Departments:
+		Development
+Willard Rosin (10374):
+	Salaries:
+		69568
+	Departments:
+		Sales
+		Customer Service
+Dante Kalafatis (10375):
+	Salaries:
+		93329
+	Departments:
+		Sales
+Fai Bale (10376):
+	Salaries:
+		42634
+	Departments:
+		Production
+Marl Grospietsch (10377):
+	Salaries:
+		40000
+	Departments:
+		Production
+Takahira Lichtner (10378):
+	Salaries:
+		75311
+	Departments:
+		Sales
+Mikhail Rosis (10379):
+	Salaries:
+		40000
+	Departments:
+		Development
+Alejandro Kamble (10380):
+	Salaries:
+		76387
+	Departments:
+		Sales
+Jiong Parfitt (10381):
+	Salaries:
+		78510
+	Departments:
+		Production
+Shirish Dredge (10382):
+	Salaries:
+		45785
+	Departments:
+		Production
+		Customer Service
+Leucio Aumann (10383):
+	Salaries:
+		47452
+	Departments:
+		Production
+Feiyu Luft (10384):
+	Salaries:
+		43270
+	Departments:
+		Marketing
+Khatoun Imataki (10385):
+	Salaries:
+		40000
+	Departments:
+		Production
+Eishiro Miyakawa (10386):
+	Salaries:
+		53367
+	Departments:
+		Development
+Parto Wrigley (10387):
+	Salaries:
+		61374
+	Departments:
+		Customer Service
+Hironoby Kaiser (10388):
+	Salaries:
+		62545
+	Departments:
+		Sales
+Make Peir (10389):
+	Salaries:
+		55548
+	Departments:
+		Development
+Wanqing Bratten (10390):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Hongzue Akaboshi (10391):
+	Salaries:
+		56655
+	Departments:
+		Development
+Jiann Hainaut (10392):
+	Salaries:
+		50962
+	Departments:
+		Production
+		Quality Management
+Yagil DasSarma (10393):
+	Salaries:
+		40000
+	Departments:
+		Production
+Shawna Meriste (10394):
+	Salaries:
+		40000
+	Departments:
+		Development
+Takahiro Deverell (10395):
+	Salaries:
+		42774
+	Departments:
+		Development
+Sibyl Rahier (10396):
+	Salaries:
+		40393
+	Departments:
+		Development
+Irena Reutenauer (10397):
+	Salaries:
+		40529
+	Departments:
+		Production
+Shooichi Escriba (10398):
+	Salaries:
+		54156
+	Departments:
+		Sales
+Guenter Marchegay (10399):
+	Salaries:
+		97010
+	Departments:
+		Sales
+Ortrud Nitto (10400):
+	Salaries:
+		63746
+	Departments:
+		Sales
+Eckart Barriga (10401):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Volkmar Ebeling (10402):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Atreyi Mungall (10403):
+	Salaries:
+		83609
+	Departments:
+		Finance
+		Sales
+Prodip Rosti (10404):
+	Salaries:
+		51647
+	Departments:
+		Development
+Hilary Budinsky (10405):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Sigeru Wynblatt (10406):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Ulf Siepmann (10407):
+	Salaries:
+		62565
+	Departments:
+		Sales
+Martijn Kaiser (10408):
+	Salaries:
+		76369
+	Departments:
+		Sales
+Mario Straney (10409):
+	Salaries:
+		64363
+	Departments:
+		Development
+Takahito Gecsei (10410):
+	Salaries:
+		46546
+	Departments:
+		Sales
+Lidong Klerer (10411):
+	Salaries:
+		66415
+	Departments:
+		Sales
+Masoud Fabrizio (10412):
+	Salaries:
+		65405
+	Departments:
+		Production
+		Customer Service
+Danel Impagliazzo (10413):
+	Salaries:
+		45416
+	Departments:
+		Human Resources
+Yinlin Alpin (10414):
+	Salaries:
+		43255
+	Departments:
+		Development
+Mark Coorg (10415):
+	Salaries:
+		50219
+	Departments:
+		Development
+Uli Keustermans (10416):
+	Salaries:
+		68993
+	Departments:
+		Finance
+Bingning Bakhtari (10417):
+	Salaries:
+		78571
+	Departments:
+		Sales
+Candida Porotnikoff (10418):
+	Salaries:
+		52224
+	Departments:
+		Marketing
+Maria Bauknecht (10419):
+	Salaries:
+		40569
+	Departments:
+		Research
+Kaijung Riesenhuber (10420):
+	Salaries:
+		69604
+	Departments:
+		Research
+Divine Marzano (10421):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Greger Rubsam (10422):
+	Salaries:
+		45725
+	Departments:
+		Production
+		Quality Management
+Dante Cronin (10423):
+	Salaries:
+		51183
+	Departments:
+		Research
+Babette Straney (10424):
+	Salaries:
+		50054
+	Departments:
+		Development
+Sashi Osgood (10425):
+	Salaries:
+		40000
+	Departments:
+		Production
+Arunas Luce (10426):
+	Salaries:
+		65757
+	Departments:
+		Development
+Khosrow Sudbeck (10427):
+	Salaries:
+		79320
+	Departments:
+		Sales
+Cathie Brlek (10428):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Martien Improta (10429):
+	Salaries:
+		40000
+	Departments:
+		Development
+Ferdinand Chenney (10430):
+	Salaries:
+		40000
+	Departments:
+		Production
+		Customer Service
+Patricio Bugrara (10431):
+	Salaries:
+		67068
+	Departments:
+		Sales
+Hisao Tiemann (10432):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Reuven Dengi (10433):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Dzung Peltason (10434):
+	Salaries:
+		40000
+	Departments:
+		Production
+Marsha Tagansky (10435):
+	Salaries:
+		45352
+	Departments:
+		Development
+Yahiko Lammel (10436):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Narain Reeker (10437):
+	Salaries:
+		59749
+	Departments:
+		Quality Management
+Evgueni Srimani (10438):
+	Salaries:
+		40000
+	Departments:
+		Production
+Jolita Jarecki (10439):
+	Salaries:
+		62401
+	Departments:
+		Development
+Akeel Narahara (10440):
+	Salaries:
+		54615
+	Departments:
+		Development
+		Research
+Adel Perfilyeva (10441):
+	Salaries:
+		40000
+	Departments:
+		Production
+Volkmar Unno (10442):
+	Salaries:
+		46005
+	Departments:
+		Sales
+Shichao Litvinov (10443):
+	Salaries:
+		55299
+	Departments:
+		Development
+Kazuhira Rosis (10444):
+	Salaries:
+		86407
+	Departments:
+		Sales
+Junichi Kavanagh (10445):
+	Salaries:
+		59438
+	Departments:
+		Development
+Ebru Chepyzhov (10446):
+	Salaries:
+		48170
+	Departments:
+		Development
+Ronghao Yavatkar (10447):
+	Salaries:
+		40000
+	Departments:
+		Quality Management
+Phule Oxenboll (10448):
+	Salaries:
+		48558
+	Departments:
+		Sales
+Aleksandar Sudkamp (10449):
+	Salaries:
+		55316
+	Departments:
+		Marketing
+		Sales
+Khun Harbusch (10450):
+	Salaries:
+		40000
+	Departments:
+		Development
+Bodh Ranta (10451):
+	Salaries:
+		46275
+	Departments:
+		Production
+Werner Hasham (10452):
+	Salaries:
+		40000
+	Departments:
+		Development
+Tsvetan Matzel (10453):
+	Salaries:
+		40000
+	Departments:
+		Customer Service
+Wonhee Badr (10454):
+	Salaries:
+		84280
+	Departments:
+		Sales
+Sverrir Streng (10455):
+	Salaries:
+		98251
+	Departments:
+		Sales
+Stepehn Hardjono (10456):
+	Salaries:
+		57599
+	Departments:
+		Finance
+Oddvar Schlenzig (10457):
+	Salaries:
+		60672
+	Departments:
+		Quality Management
+Gina Engelmann (10458):
+	Salaries:
+		76973
+	Departments:
+		Sales
+Ennio Trogemann (10459):
+	Salaries:
+		40000
+	Departments:
+		Finance
+		Human Resources
+Shushma VanScheik (10460):
+	Salaries:
+		40000
+	Departments:
+		Development
+Gal Karcich (10461):
+	Salaries:
+		82217
+	Departments:
+		Sales
+Sumali Schlenzig (10462):
+	Salaries:
+		40000
+	Departments:
+		Production
+Ung Zaiane (10463):
+	Salaries:
+		66480
+	Departments:
+		Sales
+Mang Maginnis (10464):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Claudi Shackel (10465):
+	Salaries:
+		59124
+	Departments:
+		Customer Service
+Jiakeng Himler (10466):
+	Salaries:
+		55318
+	Departments:
+		Customer Service
+Dipayan Suomi (10467):
+	Salaries:
+		79905
+	Departments:
+		Human Resources
+Yoshimitsu Shobatake (10468):
+	Salaries:
+		40000
+	Departments:
+		Sales
+Munehiko Ananiadou (10469):
+	Salaries:
+		42697
+	Departments:
+		Development
+		Research
+Peternela Iwayama (10470):
+	Salaries:
+		49593
+	Departments:
+		Production
+Jouko Yamaashi (10471):
+	Salaries:
+		58951
+	Departments:
+		Quality Management
+Salvador Lodder (10472):
+	Salaries:
+		48561
+	Departments:
+		Sales
+Przemyslawa Oskamp (10473):
+	Salaries:
+		41613
+	Departments:
+		Production
+Kenton Garnham (10474):
+	Salaries:
+		43948
+	Departments:
+		Production
+Mario Rodite (10475):
+	Salaries:
+		51203
+	Departments:
+		Production
+Kokou Iisaka (10476):
+	Salaries:
+		58221
+	Departments:
+		Research
+Guoxiang Trogemann (10477):
+	Salaries:
+		55138
+	Departments:
+		Development
+Maik Ushiama (10478):
+	Salaries:
+		40000
+	Departments:
+		Development
+		Customer Service
+Duro Coney (10479):
+	Salaries:
+		40000
+	Departments:
+		Production
+Make Baba (10480):
+	Salaries:
+		55669
+	Departments:
+		Finance
+Yongmao Pintelas (10481):
+	Salaries:
+		40000
+	Departments:
+		Production
+Goa Pleszkun (10482):
+	Salaries:
+		79330
+	Departments:
+		Development
+Zhiwei Anick (10483):
+	Salaries:
+		47423
+	Departments:
+		Quality Management
+Nirmal Varley (10484):
+	Salaries:
+		40000
+	Departments:
+		Human Resources
+Teruyuki Sundgren (10485):
+	Salaries:
+		47265
+	Departments:
+		Development
+Amstein Kossowski (10486):
+	Salaries:
+		71692
+	Departments:
+		Quality Management
+Perla Middleton (10487):
+	Salaries:
+		45083
+	Departments:
+		Production
+Mihalis Heering (10488):
+	Salaries:
+		40000
+	Departments:
+		Development
+		Research
+Elvia Homond (10489):
+	Salaries:
+		56739
+	Departments:
+		Development
+Huiqun Vuskovic (10490):
+	Salaries:
+		62973
+	Departments:
+		Sales
+Garnik Narahari (10491):
+	Salaries:
+		66740
+	Departments:
+		Marketing
+Lobel Kumaresan (10492):
+	Salaries:
+		60838
+	Departments:
+		Development
+Maris Haraldson (10493):
+	Salaries:
+		43998
+	Departments:
+		Sales
+Yakkov Servieres (10494):
+	Salaries:
+		50094
+	Departments:
+		Production
+Anyuan Zhiwei (10495):
+	Salaries:
+		75661
+	Departments:
+		Production
+Gretta Baig (10496):
+	Salaries:
+		41835
+	Departments:
+		Finance
+Pramod Rabehasaina (10497):
+	Salaries:
+		63707
+	Departments:
+		Production
+Valter Cappelletti (10498):
+	Salaries:
+		40000
+	Departments:
+		Production
+Maik Luft (10499):
+	Salaries:
+		40000
+	Departments:
+		Marketing
+		Sales
+Vojin Narwekar (10500):
+	Salaries:
+		42688
+	Departments:
+		Development

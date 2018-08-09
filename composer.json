@@ -11,7 +11,9 @@
     ],
     "require": {
         "php": "^7.2",
-        "geeklab/toolbox": "^1.0"
+        "geeklab/toolbox": "^1.0",
+        "geeklab/glpdo2": "^1.1",
+        "doctrine/orm": "^2.6"
     },
     "require-dev": {
         "phpbench/phpbench": "@dev"
