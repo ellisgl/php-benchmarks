@@ -1,5 +1,5 @@
 # Root Level Array Key Rename Benchmark
-Test the different methods of changing a key's name on the root level.
+Test the different methods of changing an array key name on the root level.
 
 [Test code](/benchmarks/RootLevelArrayKeyRenameBench.php)
 
