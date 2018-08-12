@@ -12,7 +12,7 @@ class RootLevelArrayKeyRenameBench
         'jill' => ['address_2' => 'Washington', 'country' => 'US']
     ];
 
-    private function renameUnordered($arr, $oldKey, $newKey)
+    private function renameUnordered(array $arr, $oldKey, $newKey): array
     {
         $arr[$newKey] = $arr[$oldKey];
 
@@ -20,7 +20,7 @@ class RootLevelArrayKeyRenameBench
         return $arr;
     }
 
-    private function renameKeyWithLoop($arr, $oldKey, $newKey)
+    private function renameKeyWithLoop(array $arr, $oldKey, $newKey): array
     {
         $newArr = [];
 
