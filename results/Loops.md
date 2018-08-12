@@ -1,4 +1,4 @@
-# Loop Bench Mark
+# Loop Benchmark
 Test for, short for, do...while and batch (unfolded) loops.
 [Test code](/benchmarks/LoopsBench.php)
 

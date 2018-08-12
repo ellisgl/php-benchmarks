@@ -1,4 +1,4 @@
-# Statics vs Non-Static Bench Mark
+# Statics vs Non-Static Benchmark
 [Test code](/benchmarks/StaticBench.php)
 
 ## Results
