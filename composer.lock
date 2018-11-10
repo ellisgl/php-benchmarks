@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0d47875601cf03ef7f6e8fff84b4761e",
+    "content-hash": "d14cf71b8af486c899cd3608450c5396",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -899,6 +899,45 @@
                 "GeekLab"
             ],
             "time": "2018-07-03T17:03:27+00:00"
+        },
+        {
+            "name": "geeklab/iniconf",
+            "version": "1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ellisgl/GeekLab-INIConf.git",
+                "reference": "dcfca5d861131f2be40688dba276b0a91133fd98"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ellisgl/GeekLab-INIConf/zipball/dcfca5d861131f2be40688dba276b0a91133fd98",
+                "reference": "dcfca5d861131f2be40688dba276b0a91133fd98",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "5.7.23"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "GeekLab\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ellis Geeklab",
+                    "email": "email@example.com"
+                }
+            ],
+            "description": "INI Based Environment Configuration System",
+            "time": "2018-09-25T23:28:39+00:00"
         },
         {
             "name": "geeklab/toolbox",
