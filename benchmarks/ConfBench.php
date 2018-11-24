@@ -7,31 +7,33 @@
  */
 class ConfBench
 {
-    public function benchConfJSON()
+    public function benchGeekLabConfJSON()
     {
-        $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR . 'json' .DIRECTORY_SEPARATOR;
+        $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR .'geeklab-conf' . DIRECTORY_SEPARATOR;
         $conf = new GeekLab\Conf\JSON($confDir . 'system.json', $confDir);
         $conf->init();
     }
 
-    public function benchConfYAML()
+    public function benchGeekLabConfYAML()
     {
-        $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR . 'yaml' .DIRECTORY_SEPARATOR;
+        $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR .'geeklab-conf' . DIRECTORY_SEPARATOR;
         $conf = new GeekLab\Conf\YAML($confDir . 'system.yaml', $confDir);
         $conf->init();
     }
 
-    public function benchConfINI()
+    public function benchGeekLabConfINI()
     {
-        $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR . 'ini' .DIRECTORY_SEPARATOR;
+        $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR .'geeklab-conf' . DIRECTORY_SEPARATOR;
         $conf = new GeekLab\Conf\INI($confDir . 'system.ini', $confDir);
         $conf->init();
     }
 
-    public function benchConfArr()
+    public function benchGeekLabConfArr()
     {
-        $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR . 'array' .DIRECTORY_SEPARATOR;
+        $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR .'geeklab-conf' . DIRECTORY_SEPARATOR;
         $conf = new GeekLab\Conf\Arr($confDir . 'system.php', $confDir);
         $conf->init();
     }
+
+
 }
