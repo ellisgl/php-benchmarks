@@ -16,12 +16,12 @@
         "doctrine/orm": "^2.6",
         "geeklab/conf": "^1.0"
     },
-    "require-dev": {
-        "phpbench/phpbench": "@dev"
-    },
     "autoload"          : {
         "psr-4" : {
             "Acme\\" : "lib"
         }
+    },
+    "require-dev": {
+        "phpbench/phpbench": "@dev"
     }
 }

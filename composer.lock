@@ -630,12 +630,12 @@
             "version": "v2.6.3",
             "source": {
                 "type": "git",
-                "url": "https://github.com/doctrine/doctrine2.git",
+                "url": "https://github.com/doctrine/orm.git",
                 "reference": "434820973cadf2da2d66e7184be370084cc32ca8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/doctrine2/zipball/434820973cadf2da2d66e7184be370084cc32ca8",
+                "url": "https://api.github.com/repos/doctrine/orm/zipball/434820973cadf2da2d66e7184be370084cc32ca8",
                 "reference": "434820973cadf2da2d66e7184be370084cc32ca8",
                 "shasum": ""
             },
@@ -1405,45 +1405,45 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpbench/phpbench.git",
-                "reference": "dcbe193e1696326b2f026f6d44a16637a61f8e1a"
+                "reference": "5095ccaa24b62d658fcba1c28f80ef35d07823f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpbench/phpbench/zipball/dcbe193e1696326b2f026f6d44a16637a61f8e1a",
-                "reference": "dcbe193e1696326b2f026f6d44a16637a61f8e1a",
+                "url": "https://api.github.com/repos/phpbench/phpbench/zipball/5095ccaa24b62d658fcba1c28f80ef35d07823f6",
+                "reference": "5095ccaa24b62d658fcba1c28f80ef35d07823f6",
                 "shasum": ""
             },
             "require": {
-                "beberlei/assert": "^2.4|^3.0",
+                "beberlei/assert": "^2.4 || ^3.0",
                 "doctrine/annotations": "^1.2.7",
                 "ext-dom": "*",
                 "ext-json": "*",
                 "ext-pcre": "*",
                 "ext-reflection": "*",
                 "ext-spl": "*",
-                "lstrojny/functional-php": "1.0|^1.2.3",
-                "php": "^7.0",
+                "lstrojny/functional-php": "1.0 || ^1.2.3",
+                "php": "^7.1",
                 "phpbench/container": "~1.2",
                 "phpbench/dom": "~0.2.0",
-                "seld/jsonlint": "^1.0",
-                "symfony/console": "^3.2|^4.0",
-                "symfony/debug": "^2.4|^3.0|^4.0",
-                "symfony/filesystem": "^2.4|^3.0|^4.0",
-                "symfony/finder": "^2.4|^3.0|^4.0",
-                "symfony/options-resolver": "^2.6|^3.0|^4.0",
-                "symfony/process": "^2.1|^3.0|^4.0",
+                "seld/jsonlint": "^1.1",
+                "symfony/console": "^3.2 || ^4.0",
+                "symfony/debug": "^2.4 || ^3.0 || ^4.0",
+                "symfony/filesystem": "^2.4 || ^3.0 || ^4.0",
+                "symfony/finder": "^2.4 || ^3.0 || ^4.0",
+                "symfony/options-resolver": "^2.6 || ^3.0 || ^4.0",
+                "symfony/process": "^2.1 || ^3.0 || ^4.0",
                 "webmozart/path-util": "^2.3"
             },
             "require-dev": {
                 "doctrine/dbal": "^2.4",
-                "friendsofphp/php-cs-fixer": "^2.11",
+                "friendsofphp/php-cs-fixer": "^2.13.1",
                 "padraic/phar-updater": "^1.0",
-                "phpstan/phpstan": "^0.8.5",
-                "phpunit/phpunit": "^6.5 | ^7.0"
+                "phpstan/phpstan": "^0.10.7",
+                "phpunit/phpunit": "^6.5 || ^7.0"
             },
             "suggest": {
                 "ext-curl": "For (web) reports extension",
-                "ext-xdebug": "For XDebug profiling extension."
+                "ext-xdebug": "For Xdebug profiling extension."
             },
             "bin": [
                 "bin/phpbench"
@@ -1473,7 +1473,7 @@
                 }
             ],
             "description": "PHP Benchmarking Framework",
-            "time": "2018-10-06T15:25:58+00:00"
+            "time": "2019-03-09T20:49:49+00:00"
         },
         {
             "name": "psr/container",
@@ -1874,7 +1874,7 @@
                 },
                 {
                     "name": "Gert de Pagter",
-                    "email": "BackEndTea@gmail.com"
+                    "email": "backendtea@gmail.com"
                 }
             ],
             "description": "Symfony polyfill for ctype functions",
