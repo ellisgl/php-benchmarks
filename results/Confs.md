@@ -4,17 +4,17 @@ Test of geeklab/conf
 [Test code](/benchmarks/ConfBench.php)
 
 ## Results
-AMD Ryzen 1700 - Windows 10 - PHP 7.2.0
+AMD Ryzen 1700 - Windows 10 - PHP 7.2.0 - No Caching
 
 * Revs: 100
 * Iterations: 100
 
-| subject       | mem_peak | best      | mean      | mode      | worst     | stdev    | rstdev | diff  |
-|---------------|----------|-----------|-----------|-----------|-----------|----------|--------|-------|
-| benchConfJSON | 787,768b | 529.100μs | 535.753μs | 532.735μs | 548.860μs | 4.395μs  | 0.82%  | 1.00x |
-| benchConfYAML | 787,240b | 586.760μs | 598.836μs | 595.435μs | 694.880μs | 15.215μs | 2.54%  | 1.12x |
-| benchConfINI  | 787,288b | 592.530μs | 602.118μs | 598.577μs | 716.130μs | 17.531μs | 2.91%  | 1.12x |
-| benchConfArr  | 786,912b | 607.050μs | 614.357μs | 612.415μs | 701.590μs | 9.938μs  | 1.62%  | 1.15x |
+| benchmark | subject              | mem_peak | best        | mean        | mode        | worst       | stdev    | rstdev | diff  |
+|-----------|----------------------|----------|-------------|-------------|-------------|-------------|----------|--------|-------|
+| ConfBench | benchGeekLabConfJSON | 864,544b | 1,132.490μs | 1,144.733μs | 1,140.776μs | 1,174.410μs | 8.061μs  | 0.70%  | 1.00x |
+| ConfBench | benchGeekLabConfYAML | 864,544b | 1,178.270μs | 1,194.247μs | 1,189.033μs | 1,249.700μs | 11.297μs | 0.95%  | 1.04x |
+| ConfBench | benchGeekLabConfINI  | 864,544b | 1,184.350μs | 1,200.843μs | 1,195.178μs | 1,333.900μs | 16.564μs | 1.38%  | 1.05x |
+| ConfBench | benchGeekLabConfArr  | 865,808b | 1,207.500μs | 1,221.963μs | 1,216.904μs | 1,321.910μs | 13.785μs | 1.13%  | 1.07x |
 
 ###Take away:
 * GeekLab/Conf/JSON is the fastest by 12-15%, but uses the most memory at peak.

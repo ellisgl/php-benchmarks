@@ -10,11 +10,11 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": ">=7.2",
         "geeklab/toolbox": "^1.0",
         "geeklab/glpdo2": "^1.1",
         "doctrine/orm": "^2.6",
-        "geeklab/conf": "^1.0"
+        "geeklab/conf": "^2.0"
     },
     "autoload"          : {
         "psr-4" : {
