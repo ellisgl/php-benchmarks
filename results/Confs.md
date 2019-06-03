@@ -17,5 +17,4 @@ AMD Ryzen 1700 - Windows 10 - PHP 7.2.0 - No Caching
 | ConfBench | benchGeekLabConfArr  | 865,808b | 1,207.500μs | 1,221.963μs | 1,216.904μs | 1,321.910μs | 13.785μs | 1.13%  | 1.07x |
 
 ###Take away:
-* GeekLab/Conf/JSON is the fastest by 12-15%, but uses the most memory at peak.
-* GeekLab/Conf/Arr uses the least amount of memory by 328 - 856 bytes, but is the slowest in the bunch. 
+* The difference is so slight in speed and memory usage that it shouldn't break the bank on which one you use.
