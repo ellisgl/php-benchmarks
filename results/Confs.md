@@ -1,5 +1,5 @@
 # Config Benchmark
-Test of geeklab/conf (2.0.5)
+Test of [geeklab/conf](https://github.com/ellisgl/GeekLab-Conf) (2.0.5)
 
 [Test code](/benchmarks/ConfBench.php)
 
