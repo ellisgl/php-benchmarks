@@ -11,6 +11,7 @@ AMD Ryzen 1700 - Windows 10 - PHP 7.2.18 (x64 TS)
 
 
 OPCache OFF
+
 | benchmark | subject              | mem_peak | best      | mean      | mode      | worst     | stdev    | rstdev | diff  |
 |-----------|----------------------|----------|-----------|-----------|-----------|-----------|----------|--------|-------|
 | ConfBench | benchGeekLabConfJSON | 950,920b | 485.660μs | 491.073μs | 491.793μs | 505.620μs | 3.629μs  | 0.74%  | 1.00x |
@@ -20,6 +21,7 @@ OPCache OFF
 
 
 OPCache ON
+
 | benchmark | subject              | mem_peak | best      | mean      | mode      | worst     | stdev    | rstdev | diff  |
 |-----------|----------------------|----------|-----------|-----------|-----------|-----------|----------|--------|-------|
 | ConfBench | benchGeekLabConfJSON | 481,624b | 476.990μs | 486.737μs | 484.743μs | 527.780μs | 7.205μs  | 1.48%  | 3.65x |
