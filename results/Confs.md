@@ -30,6 +30,6 @@ OPCache ON
 | ConfBench | benchGeekLabConfArr  | 469,679b | 129.180μs | 133.523μs | 132.681μs | 145.010μs | 2.356μs  | 1.76%  | 1.00x |
 
 ###Take away:
-* When OPCache is off, JSON is the fastest, while the PHP array is the slowest and uses thos most memory.
-* When OPCache is on, Arr is fastest and uses the least amount of memory. The JSON implmentation used the most.
+* When OPCache is off, JSON is the fastest, while the PHP array is the slowest and uses the most memory.
+* When OPCache is on, Arr is fastest and uses the least amount of memory. The JSON implmentation used the most memory.
 * OPCache makes for some super performance improvements for some things and minor for others. 
