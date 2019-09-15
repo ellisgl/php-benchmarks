@@ -1,14 +1,15 @@
 # Config Benchmark
-Test of geeklab/conf (2.0.5
+Test of geeklab/conf (2.0.5)
 
 [Test code](/benchmarks/ConfBench.php)
 
 ## Results
-AMD Ryzen 1700 - Windows 10 - PHP 7.2.18 (x64 TS)
+AMD Ryzen 1700 - Windows 10
 
 * Revs: 100
 * Iterations: 100
 
+PHP 7.2.18 (x64 TS)
 
 OPCache OFF
 
