@@ -3,6 +3,8 @@
 // Stolen from: https://github.com/dg/db-benchmark
 use Doctrine\ORM\Tools\Setup;
 use Doctrine\ORM\EntityManager;
+use PhpBench\Benchmark\Metadata\Annotations\Iterations;
+use PhpBench\Benchmark\Metadata\Annotations\Revs;
 
 /**
  * @Revs(1)
@@ -22,7 +24,7 @@ class DoctrineBench
      */
     private $output;
 
-    public function init()
+    public function init(): void
     {
         $paths     = array('../../lib/doctrine/entities');
         $isDevMode = true;
@@ -39,7 +41,7 @@ class DoctrineBench
         $this->em = EntityManager::create($conn, $config);
     }
 
-    public function benchQuery()
+    public function benchQuery(): void
     {
         $employeeRepo = $this->em->getRepository('Acme\doctrine\entities\Employee');
         $employees    = $employeeRepo->findBy([], [], 500);
@@ -66,7 +68,7 @@ class DoctrineBench
         }
     }
 
-    public function done()
+    public function done(): void
     {
         $fp = fopen('benchmarks/db/DoctrineOutput.txt', 'w');
         fwrite($fp, $this->output);

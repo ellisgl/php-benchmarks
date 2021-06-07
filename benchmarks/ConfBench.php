@@ -7,7 +7,7 @@
  */
 class ConfBench
 {
-    public function benchGeekLabConfJSON()
+    public function benchGeekLabConfJSON(): void
     {
         $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR .'geeklab-conf' . DIRECTORY_SEPARATOR . 'json' . DIRECTORY_SEPARATOR;
         //$conf = new GeekLab\Conf\JSON($confDir . 'system.json', $confDir);
@@ -15,21 +15,21 @@ class ConfBench
         $conf->init();
     }
 
-    public function benchGeekLabConfYAML()
+    public function benchGeekLabConfYAML(): void
     {
         $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR .'geeklab-conf' . DIRECTORY_SEPARATOR . 'yaml' . DIRECTORY_SEPARATOR;
         $conf = new GeekLab\Conf\GLConf(new GeekLab\Conf\Driver\YAMLConfDriver($confDir . 'system.yaml', $confDir));
         $conf->init();
     }
 
-    public function benchGeekLabConfINI()
+    public function benchGeekLabConfINI(): void
     {
         $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR .'geeklab-conf' . DIRECTORY_SEPARATOR . 'ini' . DIRECTORY_SEPARATOR;
         $conf = new GeekLab\Conf\GLConf(new GeekLab\Conf\Driver\INIConfDriver($confDir . 'system.ini', $confDir));
         $conf->init();
     }
 
-    public function benchGeekLabConfArr()
+    public function benchGeekLabConfArr(): void
     {
         $confDir = __DIR__ . DIRECTORY_SEPARATOR . 'confs' . DIRECTORY_SEPARATOR .'geeklab-conf' . DIRECTORY_SEPARATOR . 'array' . DIRECTORY_SEPARATOR;
         $conf = new GeekLab\Conf\GLConf(new GeekLab\Conf\Driver\ArrayConfDriver($confDir . 'system.php', $confDir));

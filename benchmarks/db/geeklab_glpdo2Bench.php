@@ -1,5 +1,7 @@
 <?php
 // vendor\bin\phpbench run benchmarks\db\geeklab_glpdo2Bench.php --report=aggregate
+use PhpBench\Benchmark\Metadata\Annotations\Iterations;
+use PhpBench\Benchmark\Metadata\Annotations\Revs;
 
 /**
  * @Revs(10)
@@ -10,7 +12,7 @@
 class geeklab_glpdo2bench
 {
     /**
-     * @var \PDO
+     * @var PDO
      */
     private $pdo;
 
@@ -24,13 +26,13 @@ class geeklab_glpdo2bench
      */
     private $output;
 
-    public function init()
+    public function init(): void
     {
         $this->pdo = new PDO('mysql:host=localhost;dbname=employees', 'root', '');
         $this->db  = new GeekLab\GLPDO2\GLPDO2($this->pdo);
     }
 
-    public function benchQuery()
+    public function benchQuery(): void
     {
         $this->output    = '';
         $Statement = new GeekLab\GLPDO2\Statement();
@@ -98,7 +100,7 @@ class geeklab_glpdo2bench
         }
     }
 
-    public function done()
+    public function done(): void
     {
         $fp = fopen('benchmarks/db/GLPDO2Output.txt', 'w');
         fwrite($fp, $this->output);

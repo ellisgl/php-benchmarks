@@ -1,5 +1,7 @@
 <?php
 // vendor\bin\phpbench run benchmarks\StaticBench.php --report=aggregate
+use PhpBench\Benchmark\Metadata\Annotations\Iterations;
+use PhpBench\Benchmark\Metadata\Annotations\Revs;
 
 /**
  * @Revs(100)
@@ -7,13 +9,13 @@
  */
 class StaticBench
 {
-    public function benchStatic()
+    public function benchStatic(): void
     {
         Acme\StaticOne::incrByOne();
         Acme\StaticOne::incrByTwo();
     }
 
-    public function benchNonStatic()
+    public function benchNonStatic(): void
     {
         $obj = new Acme\NonStaticOne();
 

@@ -1,5 +1,7 @@
 <?php
 // vendor\bin\phpbench run benchmarks\RootLevelArrayKeyRenameBench.php --report=aggregate
+use PhpBench\Benchmark\Metadata\Annotations\Iterations;
+use PhpBench\Benchmark\Metadata\Annotations\Revs;
 
 /**
  * @Revs(100)
@@ -86,42 +88,42 @@ class RootLevelArrayKeyRenameBench
     }
 
     // Benchmarks
-    public function benchUnordered()
+    public function benchUnordered(): void
     {
         $arr = $this->renameUnordered($this->arr, 'jill', 'john');
     }
 
-    public function benchLoop()
+    public function benchLoop(): void
     {
         $arr = $this->renameKeyWithLoop($this->arr, 'jill', 'john');
     }
 
-    public function benchJSONStrReplace()
+    public function benchJSONStrReplace(): void
     {
         $arr = $this->renameKeyWithJSONStrReplace($this->arr, 'jill', 'john');
     }
 
-    public function benchSerializeStrReplace()
+    public function benchSerializeStrReplace(): void
     {
         $arr = $this->renameKeyWithSerializeStrReplace($this->arr, 'jill', 'john');
     }
 
-    public function benchJSONPregReplace()
+    public function benchJSONPregReplace(): void
     {
         $arr = $this->renameKeyWithJSONPregReplace($this->arr, 'jill', 'john');
     }
 
-    public function benchSerializePregReplace()
+    public function benchSerializePregReplace(): void
     {
         $arr = $this->renameKeyWithSerializePregReplace($this->arr, 'jill', 'john');
     }
 
-    public function benchArrayKeys()
+    public function benchArrayKeys(): void
     {
         $arr = $this->renameKeyWithArrayKeys($this->arr, 'jill', 'john');
     }
 
-    public function benchArrayKeysByReference()
+    public function benchArrayKeysByReference(): void
     {
         $this->renameKeyWithArrayKeysByReference($this->arr, 'jill', 'john');
     }

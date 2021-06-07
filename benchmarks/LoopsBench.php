@@ -1,6 +1,8 @@
 <?php
 // vendor\bin\phpbench run benchmarks\LoopsBench.php --report=aggregate
 use Acme\Loops;
+use PhpBench\Benchmark\Metadata\Annotations\Iterations;
+use PhpBench\Benchmark\Metadata\Annotations\Revs;
 
 /**
  * @Revs(10)
@@ -10,20 +12,20 @@ class LoopsBench
 {
     private $iterations = 1000000;
 
-    private function doNothing($i)
+    private function doNothing($i): void
     {
 
     }
 
-    public function benchStandardForLoop()
+    public function benchStandardForLoop(): void
     {
         for ($i = 0; $i < $this->iterations; $i++)
         {
             $this->doNothing($i);
-        };
+        }
     }
 
-    public function benchShortForLoop()
+    public function benchShortForLoop(): void
     {
         $i = -1;
 
@@ -33,7 +35,7 @@ class LoopsBench
         }
     }
 
-    public function benchDoWhileLoop()
+    public function benchDoWhileLoop(): void
     {
         $i = 0;
 
@@ -43,7 +45,7 @@ class LoopsBench
         } while (++$i < $this->iterations);
     }
 
-    public function benchBatchLoop()
+    public function benchBatchLoop(): void
     {
         $i = 0;
         $n = $this->iterations % 1000;
