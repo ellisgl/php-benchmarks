@@ -4,6 +4,22 @@ Test of [geeklab/conf](https://github.com/ellisgl/GeekLab-Conf) (2.0.5)
 [Test code](/benchmarks/ConfBench.php)
 
 ## Results
+AMD Ryzen 1700 - Kubuntu 22.10
+
+PHP 8.1.2 - OPCache On (Not going to test with it off)
+
+| benchmark | subject              | set | revs | its | mem_peak  | mode      | rstdev |
+|-----------|----------------------|-----|------|-----|-----------|-----------|--------|
+| ConfBench | benchGeekLabConfJSON |     | 100  | 100 | 728.448kb | 304.690μs | ±6.18% |
+| ConfBench | benchGeekLabConfYAML |     | 100  | 100 | 1.162mb   | 2.094ms   | ±1.31% |
+| ConfBench | benchGeekLabConfINI  |     | 100  | 100 | 728.448kb | 304.866μs | ±8.35% |
+| ConfBench | benchGeekLabConfArr  |     | 100  | 100 | 728.448kb | 324.668μs | ±4.03% |
+
+### Take away:
+YAML has gone down the drain in performance. JSON and INI are fairly quick, with PHP Arrays just trailing?
+From 7.2.18 to 8.2.1, there's some memory and speed improvements for JSON, INI and Array.
+
+### Previous
 AMD Ryzen 1700 - Windows 10
 
 * Revs: 100
