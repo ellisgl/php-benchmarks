@@ -1,6 +1,7 @@
 <?php
 // vendor\bin\phpbench run benchmarks\LoopsBench.php --report=aggregate
-use Acme\Loops;
+use PhpBench\Benchmark\Metadata\Annotations\Iterations;
+use PhpBench\Benchmark\Metadata\Annotations\Revs;
 
 /**
  * @Revs(10)
@@ -8,50 +9,44 @@ use Acme\Loops;
  */
 class LoopsBench
 {
-    private $iterations = 1000000;
+    private int $iterations = 1000000;
 
-    private function doNothing($i)
+    private function doNothing($i): void
     {
-
     }
 
-    public function benchStandardForLoop()
+    public function benchStandardForLoop(): void
     {
-        for ($i = 0; $i < $this->iterations; $i++)
-        {
+        for ($i = 0; $i < $this->iterations; $i++) {
             $this->doNothing($i);
         };
     }
 
-    public function benchShortForLoop()
+    public function benchShortForLoop(): void
     {
         $i = -1;
 
-        for (; ++$i < $this->iterations;)
-        {
+        for (; ++$i < $this->iterations;) {
             $this->doNothing($i);
         }
     }
 
-    public function benchDoWhileLoop()
+    public function benchDoWhileLoop(): void
     {
         $i = 0;
 
-        do
-        {
+        do {
             $this->doNothing($i);
         } while (++$i < $this->iterations);
     }
 
-    public function benchBatchLoop()
+    public function benchBatchLoop(): void
     {
         $i = 0;
         $n = $this->iterations % 1000;
 
-        if (0 !== $n)
-        {
-            do
-            {
+        if (0 !== $n) {
+            do {
                 $this->doNothing($i);
                 ++$i;
             } while (--$n);
@@ -59,10 +54,8 @@ class LoopsBench
 
         $n = intval($this->iterations / 1000);
 
-        if (1 <= $n)
-        {
-            do
-            {
+        if (1 <= $n) {
+            do {
                 $this->doNothing($i);
                 $this->doNothing($i + 1);
                 $this->doNothing($i + 2);

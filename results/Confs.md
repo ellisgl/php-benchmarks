@@ -6,7 +6,9 @@ Test of [geeklab/conf](https://github.com/ellisgl/GeekLab-Conf) (2.0.5)
 ## Results
 AMD Ryzen 1700 - Kubuntu 22.10
 
-PHP 8.1.2 - OPCache On (Not going to test with it off)
+PHP 8.1.2 
+
+OPCache Off
 
 | benchmark | subject              | set | revs | its | mem_peak  | mode      | rstdev |
 |-----------|----------------------|-----|------|-----|-----------|-----------|--------|
@@ -15,7 +17,21 @@ PHP 8.1.2 - OPCache On (Not going to test with it off)
 | ConfBench | benchGeekLabConfINI  |     | 100  | 100 | 728.448kb | 304.866μs | ±8.35% |
 | ConfBench | benchGeekLabConfArr  |     | 100  | 100 | 728.448kb | 324.668μs | ±4.03% |
 
+
+OPCache On
+
+| benchmark | subject              | set | revs | its | mem_peak  | mode      | rstdev |
+|-----------|----------------------|-----|------|-----|-----------|-----------|--------|
+| ConfBench | benchGeekLabConfJSON |     | 100  | 100 | 595.088kb | 301.030μs | ±7.08% |
+| ConfBench | benchGeekLabConfYAML |     | 100  | 100 | 962.064kb | 2.009ms   | ±1.34% |
+| ConfBench | benchGeekLabConfINI  |     | 100  | 100 | 595.088kb | 297.156μs | ±6.10% |
+| ConfBench | benchGeekLabConfArr  |     | 100  | 100 | 595.088kb | 247.160μs | ±7.93% |
+
 ### Take away:
+* When OPCache is off, JSON is the fastest, while the YAML the slowest and uses the most memory.
+* When OPCache is on, PHP Array is fastest, while YAML is still the slowest and most memory hungry.
+* OPCache help with speed and memory usage. JSON, YAML and INI only say small speed improvements, while PHP Array saw the biggest gain.
+
 YAML has gone down the drain in performance. JSON and INI are fairly quick, with PHP Arrays just trailing?
 From 7.2.18 to 8.2.1, there's some memory and speed improvements for JSON, INI and Array.
 
